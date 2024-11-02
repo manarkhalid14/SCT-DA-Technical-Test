@@ -6,7 +6,7 @@ Welcome to the SCT Data Analytics Program Entry Test! This test is designed to a
 
 1. Clone or download this repository.
 2. Open the provided Excel file "SCT\_\_Excel&SQL_test" to complete **Q1**, **Q2** and **Q3**.
-3. Open the provided TXT file "SCT\_\_Excel&SQL_test" to compelte the programming questions.
+3. Open the provided TXT file "SCT\_\_Programming_test" to compelte the programming questions.
 4. Refer to the resources below if you need assistance with any question.
 5. Once you’re done, submit your answers in the required format (e.g., upload the completed Excel file and a `.txt` file).
 
