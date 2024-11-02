@@ -39,4 +39,4 @@ Welcome to the SCT Data Analytics Program Entry Test! This test is designed to a
 
   Good luck, and we look forward to seeing your solutions!
 
-  She Codes Too Tehnical Team
+  She Codes Too Team
