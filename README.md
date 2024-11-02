@@ -35,7 +35,7 @@ Welcome to the SCT Data Analytics Program Entry Test! This test is designed to a
 ## Submission
 
 - **Excel and SQL Questions (Q1 & Q2 & Q3)**: Complete your answers in the provided Excel file.
-- **The Programming Questions (Q3)**: Write your answer in the same provided file ( `.txt` file) or in seperate file using the proper extention
+- **The Programming Questions**: Write your answer in the same provided file ( `.txt` file) or in seperate file using the proper extention
 
   Good luck, and we look forward to seeing your solutions!
 
