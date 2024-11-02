@@ -1,0 +1,18 @@
+# She Codes Too Programming Task: Basic Data Manipulation
+# You have the following list of numbers:
+
+numbers = [15, 10, 25, 10, 30, 15, 5, 20, 30, 5, 40]
+
+# Use any programming languages of your choice, Write code to perform the following:
+    # 1. Calculate the sum and average of all the numbers in the list.
+    # 2. Arrange the list in ascending order.
+
+
+# Expected Output:
+# Print the sum of the list.
+# Print the average of the list.
+# Print the list after it is sorted in ascending order
+
+
+
+# Put your answer here, or in any separate file.
