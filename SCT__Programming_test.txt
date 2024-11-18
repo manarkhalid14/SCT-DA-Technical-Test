@@ -16,3 +16,28 @@ numbers = [15, 10, 25, 10, 30, 15, 5, 20, 30, 5, 40]
 
 
 # Put your answer here, or in any separate file.
+
+
+1/
+numbers = [15, 10, 25, 10, 30, 15, 5, 20, 30, 5, 40]
+total = sum(numbers)
+print(total)
+run
+205
+
+average/
+def avg(a,b):
+    return a/b
+print(avg(a=205,b=11))
+run
+18.636
+
+
+arrange/ 
+numbers = [15, 10, 25, 10, 30, 15, 5, 20, 30, 5, 40]
+# numbers.sort(reverse=True)
+print(sorted(numbers))
+print(numbers)
+run 
+ [5, 5, 10, 10,15, 15, 20, 25 , 30 ,  30, 40]
+
